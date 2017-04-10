@@ -1,0 +1,196 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Ch 24 Page 172: Sustainable Energy - without the hot air | David MacKay</title>
+<link rel="stylesheet" type="text/css" href="../css/sewthabase.css">
+<script type="text/javascript" src="../js/pagenav.js">
+</script>
+</head>
+<body>
+<script type="text/javascript" src="pagenavcfg.js">
+</script><div id="header">
+
+<div id="leftheader">
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
+</div>
+
+<div id="rightheader">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="davidjcmackay" data-count="none">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div> <!--end rightheader-->
+</div> <!--end header-->
+
+<div class="float-divider"></div>
+</div>
+
+<div id="container"><script type="text/javascript">
+writePages(ytop);
+</script> <div id="contentslink">
+<a href="../sewthacontents.shtml" ><strong>Contents</strong></a>
+</div>
+<div id="textcol">
+<h2>What about nuclear fusion?</h2>
+<blockquote>
+<p>We say that we will put the sun into a box. The idea is pretty. The problem is, we don&rsquo;t know how to make the box.</p>
+<cite>S&acute;ebastien Balibar, Director of Research, CNRS</cite></blockquote>
+<p class="first">Fusion power is speculative and experimental. I think it is reckless to<br>
+assume that the fusion problem <em>will</em> be cracked, but I&rsquo;m happy to estimate<br>
+how much power fusion could deliver, <em>if</em> the problem is cracked.<br></p>
+<p>The two fusion reactions that are considered the most promising are:<br></p>
+<br>
+<p class="first"><strong>the DT reaction</strong>, which fuses deuterium with tritium, making helium; and<br></p>
+<br>
+<p class="first"><strong>the DD reaction</strong>, which fuses deuterium with deuterium.<br></p>
+<br>
+<p class="first">Deuterium, a naturally occurring heavy isotope of hydrogen, can be ob-<br>
+tained from seawater; tritium, a heavier isotope of hydrogen, isn&rsquo;t found<br>
+in large quantities naturally (because it has a half-life of only 12 years) but<br>
+it can be manufactured from lithium.<br></p>
+<p>ITER is an international project to figure out how to make a steadily-<br>
+working fusion reactor. The ITER prototype will use the DT reaction. DT<br>
+is preferred over DD, because the DT reaction yields more energy and be-<br>
+cause it requires a temperature of &ldquo;only&rdquo; 100 million &deg;C to get it going,<br>
+whereas the DD reaction requires 300 million &deg;C. (The maximum temper-<br>
+ature in the sun is 15 million &deg;C.)<br></p>
+<p>Let&rsquo;s fantasize, and assume that the ITER project is successful. What<br>
+sustainable power could fusion then deliver? Power stations using the DT<br>
+reaction, fuelled by lithium, will run out of juice when the lithium runs<br>
+out. Before that time, hopefully the second installment of the fantasy will<br>
+have arrived: fusion reactors using deuterium alone.<br></p>
+<p>I&rsquo;ll call these two fantasy energy sources &ldquo;lithium fusion&rdquo; and &ldquo;deu-<br>
+terium fusion,&rdquo; naming them after the principal fuel we&rsquo;d worry about<br>
+in each case. Let&rsquo;s now estimate how much energy each of these sources<br>
+could deliver.<br></p>
+<h3>Lithium fusion</h3>
+<p class="first">World lithium reserves are estimated to be 9.5 million tons in ore deposits.<br>
+If all these reserves were devoted to fusion over 1000 years, the power<br>
+delivered would be <span class="green">10 kWh/d per person</span>.<br></p>
+<p>There&rsquo;s another source for lithium: seawater, where lithium has a con-<br>
+centration of 0.17 ppm. To produce lithium at a rate of 100 million kg<br>
+per year from seawater is estimated to have an energy requirement of<br>
+2.5 kWh(e) per gram of lithium. If the fusion reactors give back 2300 kWh(e)<br>
+per gram of lithium, the power thus delivered would be 105 kWh/d per<br>
+person (assuming 6 billion people). At this rate, the lithium in the oceans<br>
+would last more than a million years.<br></p>
+<div class="imgcap"><img src="figure204.png" width="219" height="157" alt="">
+<div class="sidebarcaption"><span class="figurenumber">Figure 24.15</span>. The inside of an experimental fusion reactor. Split image showing the JET vacuum vessel with a superimposed image of a JET plasma, taken with an ordinary TV camera. Photo: EFDA-JET.</div>
+</div>
+<div class="imgcap" style="top:22em"><img src="figure426.png" width="204" height="400" alt="">
+<div class="sidebarcaption"><span class="figurenumber">Figure 24.16</span>. Lithium-based fusion, if used fairly and &ldquo;sustainably,&rdquo; could match our current levels of consumption. Mined lithium would deliver 10 kWh/d per person for 1000 years; lithium extracted from seawater could deliver 105 kWh/d per person for over a million years.</div>
+</div>
+</div>
+<!-- textcol -->
+<div id="book_sidebar"><div class="pos" id="rm">
+<table cellspacing=1 cellpadding=1><tr><td>
+<a href="../order.html">
+<img border="0" src="../images/NewCover09d-2.png" width="139" height="159" alt="SEWTHA cover" />
+</a>
+     </td></tr>
+				  <tr><td>
+<a href="../order.html">
+Buy the book on paper		  
+</a>				  
+			     </td></tr>
+			     <tr><td>
+<a href="../download.html">
+Download pdf for free
+</a>				  
+	  </td></tr>
+  <tr><td>
+  <table
+       bgcolor=#bbbbbb
+       cellspacing=2 cellpadding=0>
+    <tr
+       bgcolor=#ccccff
+       ><td valign=top colspan=3 align=center>Page-finder</td></tr>
+    <tr
+       bgcolor=#ccccff
+       ><td width=33% valign=top>
+  <table cellpadding=0 cellspacing=2>
+  <tr><td><a style="color:blue;text-decoration:none" href="../c0/dedication.shtml"><abbr title="Dedication"><sup>vii</sup></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface.shtml"><abbr title="Preface page viii"><small>viii</small></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface2.shtml"><abbr title="Preface page ix"><sub>ix</sub></abbr></a> </td></tr>
+
+  <tr>
+  <td bgcolor=#ffffff><abbr title="Part I: Numbers, not adjectives">&nbsp;<b>I</b>&nbsp;</abbr><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/1.112.pdf><abbr title="Part I: Numbers, not adjectives (download as pdf file)"><small></small></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c1/page_2.shtml"   ><abbr title="Chapter 1: Motivations">  2-21</abbr></a>  </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c2/page_22.shtml"  ><abbr title="Chapter 2: The balance sheet"> 22-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c3/page_29.shtml"  ><abbr title="Chapter 3: Cars"> 29-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c4/page_32.shtml"  ><abbr title="Chapter 4: Wind"> 32-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c5/page_35.shtml"  ><abbr title="Chapter 5: Flight"> 35-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c6/page_38.shtml"  ><abbr title="Chapter 6: Solar"> 38-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c7/page_50.shtml"  ><abbr title="Chapter 7: Heating"> 50-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c8/page_55.shtml"  ><abbr title="Chapter 8: Hydro"> 55-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c9/page_57.shtml"  ><abbr title="Chapter 9: Light"> 57-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c10/page_60.shtml" ><abbr title="Chapter 10: Offshore"> 60-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c11/page_68.shtml" ><abbr title="Chapter 11: Gadgets"> 68-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c12/page_73.shtml" ><abbr title="Chapter 12: Wave"> 73-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c13/page_76.shtml" ><abbr title="Chapter 13: Food"> 76-</abbr></a>  </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c14/page_81.shtml" ><abbr title="Chapter 14: Tide"> 81-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c15/page_88.shtml" ><abbr title="Chapter 15: Stuff"> 88-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c16/page_96.shtml" ><abbr title="Chapter 16: Geothermal"> 96-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c17/page_100.shtml"><abbr title="Chapter 17: Public services">100-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c18/page_103.shtml"><abbr title="Chapter 18: Can we...?">103-</abbr></a>  </td></tr>
+  </table></td><td valign=top width=33%>
+  <table  width=100% cellspacing=2 cellpadding=0><tr  bgcolor=#ccccff>
+  <td bgcolor=#ffffff><abbr title="Part II: Making a difference">&nbsp;<b>II</b>&nbsp;</abbr></a><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/113.252.pdf><abbr title="Part II: Making a difference (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c19/page_114.shtml"><abbr title="Chapter 19: Every BIG helps">114-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c20/page_118.shtml"><abbr title="Chapter 20: Better transport ">118-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c21/page_140.shtml"><abbr title="Chapter 21: Smarter heating ">140-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c22/page_155.shtml"><abbr title="Chapter 22: Efficient electricity use">155-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c23/page_157.shtml"><abbr title="Chapter 23: Sustainable fossil fuels? ">157-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="page_161.shtml"><abbr title="Chapter 24: Nuclear? ">161-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c25/page_177.shtml"><abbr title="Chapter 25: Living on other countries' renewables?">177-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c26/page_186.shtml"><abbr title="Chapter 26: Fluctuations and storage ">186-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c27/page_203.shtml"><abbr title="Chapter 27: Five energy plans for Britain ">203-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c28/page_214.shtml"><abbr title="Chapter 28: Putting costs in perspective ">214-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c29/page_222.shtml"><abbr title="Chapter 29: What to do now ">222-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c30/page_231.shtml"><abbr title="Chapter 30: Energy plans for Europe, America, and the World">231-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c31/page_240.shtml"><abbr title="Chapter 31: The last thing we should talk about ">240-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c32/page_250.shtml"><abbr title="Chapter 32: Saying yes ">250</abbr></a> <a style="color:blue;text-decoration:none" href="../ack/page_251.shtml"><abbr title="Acknowledgments ">251</abbr></a></td></tr>
+  </table></td><td valign=top width=33%>
+  <table   cellspacing=2 cellpadding=0 width=100%><tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part III: Technical chapters">&nbsp;<b>III</b>&nbsp;</abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/253.326.pdf><abbr title="Part III: Technical chapters (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cA/page_254.shtml"  ><abbr title="Chapter A: Cars II"> 254-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cB/page_263.shtml"  ><abbr title="Chapter B: Wind II"> 263-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cC/page_269.shtml"  ><abbr title="Chapter C: Planes II"> 269-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cD/page_283.shtml"  ><abbr title="Chapter D: Solar II"> 283-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cE/page_289.shtml"  ><abbr title="Chapter E: Heating II">289-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cF/page_307.shtml"  ><abbr title="Chapter F: Waves II"> 307-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cG/page_311.shtml"  ><abbr title="Chapter G: Tide II"> 311-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cH/page_322.shtml"  ><abbr title="Chapter H: Stuff II">322-</abbr></a> </td></tr>
+<tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part IV: Useful data"><b>IV</b></abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/327.370.pdf><abbr title="Part IV: Useful data (download as pdf file)"></abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cI/page_328.shtml"><abbr title="Appendix I: Quick reference">328-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cJ/page_338.shtml"><abbr title="Appendix J: Populations and areas ">338-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cK/page_342.shtml"><abbr title="Appendix K: UK energy history ">342-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cL/page_370.shtml"><abbr title="Power and carbon translation charts">370-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bibliography.shtml"><abbr title="Bibliography">bibliog</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href=http://www.inference.eng.cam.ac.uk/sustainable/book/tex/cft.url.html><abbr title="List of web links">links</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bookindex.shtml"><abbr title="Alphabetical Index">index</abbr></a></small></td></tr>
+			     </table>
+			     </td></tr>
+		    
+			     </table>
+			     </td></tr>
+			     <tr><td>
+				  Many thanks to William Sigmund
+				  and <a href="http://www.opendemocracy.net/article/economics/energy-without-hot-air-group-read" style="color:#1e90ff;text-decoration:none">openDemocracy</a>
+				  for the HTML conversion!
+			     </td></tr><tr><td bgcolor=#ddddff>
+<a href=http://www.inference.phy.cam.ac.uk/wiki/sustainable/en/index.php/Main_Page>wiki</a>
+				  |
+<a href=http://withouthotair.blogspot.com/view/sidebar#!/>blog</a>
+				  |
+<a href="../Extensions.html">more</a>
+				  </td>
+				  </tr>
+</table>
+</div>
+</div>
+<script type="text/javascript">
+writePages(ybottom);
+</script></div>
+<!-- container -->
+</body>
+</html>

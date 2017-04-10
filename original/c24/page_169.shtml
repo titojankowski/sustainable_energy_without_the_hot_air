@@ -1,0 +1,213 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Ch 24 Page 169: Sustainable Energy - without the hot air | David MacKay</title>
+<link rel="stylesheet" type="text/css" href="../css/sewthabase.css">
+<script type="text/javascript" src="../js/pagenav.js">
+</script>
+<style type="text/css">
+table#p169 td{
+  padding:5px;
+  line-height: 140%;
+}
+table#p169 tr+tr td+td+td{
+  text-align: left;
+}
+</style>
+</head>
+<body>
+<script type="text/javascript" src="pagenavcfg.js">
+</script><div id="header">
+
+<div id="leftheader">
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
+</div>
+
+<div id="rightheader">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="davidjcmackay" data-count="none">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div> <!--end rightheader-->
+</div> <!--end header-->
+
+<div class="float-divider"></div>
+</div>
+
+<div id="container"><script type="text/javascript">
+writePages(ytop);
+</script> <div id="contentslink">
+<a href="../sewthacontents.shtml" ><strong>Contents</strong></a>
+</div>
+<div id="textcol">
+<h3>Inherently safe nuclear power</h3>
+<p class="first">Spurred on by worries about nuclear accidents, engineers have devised<br>
+many new reactors with improved safety features. The GT-MHR power<br>
+plant, for example, is claimed to be inherently safe; and, moreover it has<br>
+a higher efficiency of conversion of heat to electricity than conventional<br>
+nuclear plants [<span class="websitetitle">gt-mhr.ga.com</span>].<br></p>
+<h2>Mythconceptions</h2>
+<p class="first">Two widely-cited defects of nuclear power are construction costs, and<br>
+waste. Let&rsquo;s examine some aspects of these issues.<br></p>
+<h4>Building a nuclear power station requires huge amounts of con-<br>
+crete and steel, materials whose creation involves huge CO2<br>
+pollution.<br></h4>
+<p>The steel and concrete in a 1 GW nuclear power station have a carbon<br>
+footprint of roughly 300 000 t CO<sub>2</sub>.<br></p>
+<p>Spreading this &ldquo;huge&rdquo; number over a 25-year reactor life we can express<br>
+this contribution to the carbon intensity in the standard units (g CO<sub>2</sub><br>
+per kWh(e)),<br></p>
+<table class="fraction" id="p169" summary="">
+<tr>
+<td rowspan="2">carbon intensity<br>
+associated with construction</td>
+<td rowspan="2">&nbsp;=&nbsp;</td>
+<td>300&times; 10<sup>9</sup> g</td>
+</tr>
+<tr>
+<td class="upper_line">10<sup>6</sup> kW(e) &times; 220 000 h</td>
+</tr>
+<tr>
+<td></td>
+<td>&nbsp;=&nbsp;</td>
+<td>1.4 g/kWh(e),</td>
+</tr>
+</table>
+<p class="first">which is much smaller than the fossil-fuel benchmark of 400 g CO<sub>2</sub>/kWh(e).<br>
+The IPCC estimates that the total carbon intensity of nuclear power (in-<br>
+cluding construction, fuel processing, and decommissioning) is less than<br>
+40 g CO<sub>2</sub>/kWh(e) (Sims et al., 2007).<br></p>
+<p>Please don&rsquo;t get me wrong: I&rsquo;m not trying to be pro-nuclear. I&rsquo;m just<br>
+pro-arithmetic.<br></p>
+<h4>Isn&rsquo;t the waste from nuclear reactors a huge problem?</h4>
+<p>As we noted in the opening of this chapter, the volume of waste from<br>
+nuclear reactors is relatively small. Whereas the ash from ten coal-fired<br>
+power stations would have a mass of four million tons per year (having a<br>
+volume of roughly 40 litres per person per year), the nuclear waste from<br>
+Britain&rsquo;s ten nuclear power stations has a volume of just 0.84 litres per<br>
+person per year &ndash; think of that as a bottle of wine per person per year<br>
+(figure 24.13).<br></p>
+<p>Most of this waste is low-level waste. 7% is intermediate-level waste,<br>
+and just 3% of it &ndash; 25 ml per year &ndash; is high-level waste.<br></p>
+<p>The high-level waste is the really nasty stuff. It&rsquo;s conventional to keep<br>
+the high-level waste at the reactor for its first 40 years. It is stored in pools<br>
+of water and cooled. After 40 years, the level of radioactivity has dropped<br>
+1000-fold. The level of radioactivity continues to fall; after 1000 years,<a href=http://www.withouthotair.com/Errata.html#169><font style="color:blue"><sup><abbr title="See errata"><b>E</b></abbr></sup></font></a> the<br></p>
+<div class="imgcap"><img src="figure200.png" width="219" height="603" alt="">
+<div class="sidebarcaption"><span class="figurenumber">Figure 24.12</span>. Chernobyl power plant (top), and the abandoned town of Prypiat, which used to serve it (bottom). Photos by Nik Stanbridge.</div>
+</div>
+</div>
+<!-- textcol -->
+<div id="book_sidebar"><div class="pos" id="rm">
+<table cellspacing=1 cellpadding=1><tr><td>
+<a href="../order.html">
+<img border="0" src="../images/NewCover09d-2.png" width="139" height="159" alt="SEWTHA cover" />
+</a>
+     </td></tr>
+				  <tr><td>
+<a href="../order.html">
+Buy the book on paper		  
+</a>				  
+			     </td></tr>
+			     <tr><td>
+<a href="../download.html">
+Download pdf for free
+</a>				  
+	  </td></tr>
+  <tr><td>
+  <table
+       bgcolor=#bbbbbb
+       cellspacing=2 cellpadding=0>
+    <tr
+       bgcolor=#ccccff
+       ><td valign=top colspan=3 align=center>Page-finder</td></tr>
+    <tr
+       bgcolor=#ccccff
+       ><td width=33% valign=top>
+  <table cellpadding=0 cellspacing=2>
+  <tr><td><a style="color:blue;text-decoration:none" href="../c0/dedication.shtml"><abbr title="Dedication"><sup>vii</sup></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface.shtml"><abbr title="Preface page viii"><small>viii</small></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface2.shtml"><abbr title="Preface page ix"><sub>ix</sub></abbr></a> </td></tr>
+
+  <tr>
+  <td bgcolor=#ffffff><abbr title="Part I: Numbers, not adjectives">&nbsp;<b>I</b>&nbsp;</abbr><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/1.112.pdf><abbr title="Part I: Numbers, not adjectives (download as pdf file)"><small></small></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c1/page_2.shtml"   ><abbr title="Chapter 1: Motivations">  2-21</abbr></a>  </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c2/page_22.shtml"  ><abbr title="Chapter 2: The balance sheet"> 22-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c3/page_29.shtml"  ><abbr title="Chapter 3: Cars"> 29-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c4/page_32.shtml"  ><abbr title="Chapter 4: Wind"> 32-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c5/page_35.shtml"  ><abbr title="Chapter 5: Flight"> 35-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c6/page_38.shtml"  ><abbr title="Chapter 6: Solar"> 38-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c7/page_50.shtml"  ><abbr title="Chapter 7: Heating"> 50-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c8/page_55.shtml"  ><abbr title="Chapter 8: Hydro"> 55-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c9/page_57.shtml"  ><abbr title="Chapter 9: Light"> 57-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c10/page_60.shtml" ><abbr title="Chapter 10: Offshore"> 60-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c11/page_68.shtml" ><abbr title="Chapter 11: Gadgets"> 68-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c12/page_73.shtml" ><abbr title="Chapter 12: Wave"> 73-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c13/page_76.shtml" ><abbr title="Chapter 13: Food"> 76-</abbr></a>  </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c14/page_81.shtml" ><abbr title="Chapter 14: Tide"> 81-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c15/page_88.shtml" ><abbr title="Chapter 15: Stuff"> 88-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c16/page_96.shtml" ><abbr title="Chapter 16: Geothermal"> 96-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c17/page_100.shtml"><abbr title="Chapter 17: Public services">100-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c18/page_103.shtml"><abbr title="Chapter 18: Can we...?">103-</abbr></a>  </td></tr>
+  </table></td><td valign=top width=33%>
+  <table  width=100% cellspacing=2 cellpadding=0><tr  bgcolor=#ccccff>
+  <td bgcolor=#ffffff><abbr title="Part II: Making a difference">&nbsp;<b>II</b>&nbsp;</abbr></a><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/113.252.pdf><abbr title="Part II: Making a difference (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c19/page_114.shtml"><abbr title="Chapter 19: Every BIG helps">114-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c20/page_118.shtml"><abbr title="Chapter 20: Better transport ">118-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c21/page_140.shtml"><abbr title="Chapter 21: Smarter heating ">140-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c22/page_155.shtml"><abbr title="Chapter 22: Efficient electricity use">155-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c23/page_157.shtml"><abbr title="Chapter 23: Sustainable fossil fuels? ">157-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="page_161.shtml"><abbr title="Chapter 24: Nuclear? ">161-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c25/page_177.shtml"><abbr title="Chapter 25: Living on other countries' renewables?">177-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c26/page_186.shtml"><abbr title="Chapter 26: Fluctuations and storage ">186-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c27/page_203.shtml"><abbr title="Chapter 27: Five energy plans for Britain ">203-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c28/page_214.shtml"><abbr title="Chapter 28: Putting costs in perspective ">214-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c29/page_222.shtml"><abbr title="Chapter 29: What to do now ">222-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c30/page_231.shtml"><abbr title="Chapter 30: Energy plans for Europe, America, and the World">231-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c31/page_240.shtml"><abbr title="Chapter 31: The last thing we should talk about ">240-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c32/page_250.shtml"><abbr title="Chapter 32: Saying yes ">250</abbr></a> <a style="color:blue;text-decoration:none" href="../ack/page_251.shtml"><abbr title="Acknowledgments ">251</abbr></a></td></tr>
+  </table></td><td valign=top width=33%>
+  <table   cellspacing=2 cellpadding=0 width=100%><tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part III: Technical chapters">&nbsp;<b>III</b>&nbsp;</abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/253.326.pdf><abbr title="Part III: Technical chapters (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cA/page_254.shtml"  ><abbr title="Chapter A: Cars II"> 254-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cB/page_263.shtml"  ><abbr title="Chapter B: Wind II"> 263-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cC/page_269.shtml"  ><abbr title="Chapter C: Planes II"> 269-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cD/page_283.shtml"  ><abbr title="Chapter D: Solar II"> 283-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cE/page_289.shtml"  ><abbr title="Chapter E: Heating II">289-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cF/page_307.shtml"  ><abbr title="Chapter F: Waves II"> 307-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cG/page_311.shtml"  ><abbr title="Chapter G: Tide II"> 311-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cH/page_322.shtml"  ><abbr title="Chapter H: Stuff II">322-</abbr></a> </td></tr>
+<tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part IV: Useful data"><b>IV</b></abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/327.370.pdf><abbr title="Part IV: Useful data (download as pdf file)"></abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cI/page_328.shtml"><abbr title="Appendix I: Quick reference">328-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cJ/page_338.shtml"><abbr title="Appendix J: Populations and areas ">338-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cK/page_342.shtml"><abbr title="Appendix K: UK energy history ">342-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cL/page_370.shtml"><abbr title="Power and carbon translation charts">370-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bibliography.shtml"><abbr title="Bibliography">bibliog</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href=http://www.inference.eng.cam.ac.uk/sustainable/book/tex/cft.url.html><abbr title="List of web links">links</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bookindex.shtml"><abbr title="Alphabetical Index">index</abbr></a></small></td></tr>
+			     </table>
+			     </td></tr>
+		    
+			     </table>
+			     </td></tr>
+			     <tr><td>
+				  Many thanks to William Sigmund
+				  and <a href="http://www.opendemocracy.net/article/economics/energy-without-hot-air-group-read" style="color:#1e90ff;text-decoration:none">openDemocracy</a>
+				  for the HTML conversion!
+			     </td></tr><tr><td bgcolor=#ddddff>
+<a href=http://www.inference.phy.cam.ac.uk/wiki/sustainable/en/index.php/Main_Page>wiki</a>
+				  |
+<a href=http://withouthotair.blogspot.com/view/sidebar#!/>blog</a>
+				  |
+<a href="../Extensions.html">more</a>
+				  </td>
+				  </tr>
+</table>
+</div>
+</div>
+<script type="text/javascript">
+writePages(ybottom);
+</script></div>
+<!-- container -->
+</body>
+</html>

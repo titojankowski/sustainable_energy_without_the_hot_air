@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Ch G Page 315: Sustainable Energy - without the hot air | David MacKay</title>
+<link rel="stylesheet" type="text/css" href="../css/sewthabase.css">
+<script type="text/javascript" src="../js/pagenav.js">
+</script>
+</head>
+<body>
+<script type="text/javascript" src="pagenavcfg.js">
+</script><div id="header">
+
+<div id="leftheader">
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
+</div>
+
+<div id="rightheader">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="davidjcmackay" data-count="none">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div> <!--end rightheader-->
+</div> <!--end header-->
+
+<div class="float-divider"></div>
+</div>
+
+<div id="container"><script type="text/javascript">
+writePages(ytop);
+</script> <div id="contentslink">
+<a href="../sewthacontents.shtml" ><strong>Contents</strong></a>
+</div>
+<div id="textcol"><img style="margin:0em 0 2em 0" src="figure302.png" width="706" height="172" alt="">
+<p class="first">the power of the wave will remain constant. This means &#8730;<span style="text-decoration:overline"><em>d</em></span><em>h</em><sup>2</sup> is a constant,<br>
+so we deduce that the height of the tide scales with depth as <em>h</em> <span class="cong">&#8773;</span> 1/<em>d</em><sup>1/4</sup>.<br></p>
+<p>This is a crude model. One neglected detail is the Coriolis effect. The<br>
+Coriolis force causes tidal crests and troughs to tend to drive on the right &ndash;<br>
+for example, going up the English Channel, the high tides are higher and<br>
+the low tides are lower on the French side of the channel. By neglecting<br>
+this effect I may have introduced some error into the estimates.<br></p>
+<h2>Power density of tidal stream farms</h2>
+<p class="first">Imagine sticking underwater windmills on the sea-bed. The flow of water<br>
+will turn the windmills. Because the density of water is roughly 1000 times<br>
+that of air, the power of water flow is 1000 times greater than the power of<br>
+wind at the same speed.<br></p>
+<p>What power could tidal stream farms extract? It depends crucially<br>
+on whether or not we can add up the power contributions of tidefarms on<br>
+<em>adjacent</em> pieces of sea-floor. For wind, this additivity assumption is believed<br>
+to work fine: as long as the wind turbines are spaced a standard distance<br>
+apart from each other, the total power delivered by 10 adjacent wind farms<br>
+is the sum of the powers that each would deliver if it were alone.<br></p>
+<p>Does the same go for tide farms? Or do underwater windmills interfere<br>
+with each other&rsquo;s power extraction in a different way? I don&rsquo;t think<br>
+the answer to this question is known in general. We can name two alternative<br>
+assumptions, however, and identify cartoon situations in which each<br>
+assumption seems valid. The &ldquo;tide is like wind&rdquo; assumption says that you<br>
+can put tide-turbines all over the sea-bed, spaced about 5 diameters apart<br>
+from each other, and they won&rsquo;t interfere with each other, no matter how<br>
+much of the sea-bed you cover with such tide farms.<br></p>
+<p>The &ldquo;you can have only one row&rdquo; assumption, in contrast, asserts that<br>
+the maximum power extractable in a region is the power that would be<br>
+delivered by a <em>single</em> row of turbines facing the flow. A situation where<br>
+this assumption is correct is the special case of a hydroelectric dam: if the<br>
+water from the dam passes through a single well-designed turbine, there&rsquo;s<br>
+no point putting any more turbines behind that one. You can&rsquo;t get 100<br></p>
+<div class="imgcap" style="top:13em">
+<div class="sidebarcaption"><span class="figurenumber">Figure G.5.</span> (a) Tidal current over a 21-day period at a location where the maximum current at spring tide is 2.9 knots (1.5 m/s) and the maximum current at neap tide is 1.8&nbsp;knots (0.9&nbsp;m/s).<br>
+(b) The power per unit sea-floor area over a nine-day period extending from spring tides to neap tides. The power peaks four times per day, and has a maximum of about 27&nbsp;W/m<sup>2</sup>. The average power of the tide farm is 6.4&nbsp;W/m<sup>2</sup>.</div>
+</div>
+</div>
+<!-- textcol -->
+<div id="book_sidebar"><div class="pos" id="rm">
+<table cellspacing=1 cellpadding=1><tr><td>
+<a href="../order.html">
+<img border="0" src="../images/NewCover09d-2.png" width="139" height="159" alt="SEWTHA cover" />
+</a>
+     </td></tr>
+				  <tr><td>
+<a href="../order.html">
+Buy the book on paper		  
+</a>				  
+			     </td></tr>
+			     <tr><td>
+<a href="../download.html">
+Download pdf for free
+</a>				  
+	  </td></tr>
+  <tr><td>
+  <table
+       bgcolor=#bbbbbb
+       cellspacing=2 cellpadding=0>
+    <tr
+       bgcolor=#ccccff
+       ><td valign=top colspan=3 align=center>Page-finder</td></tr>
+    <tr
+       bgcolor=#ccccff
+       ><td width=33% valign=top>
+  <table cellpadding=0 cellspacing=2>
+  <tr><td><a style="color:blue;text-decoration:none" href="../c0/dedication.shtml"><abbr title="Dedication"><sup>vii</sup></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface.shtml"><abbr title="Preface page viii"><small>viii</small></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface2.shtml"><abbr title="Preface page ix"><sub>ix</sub></abbr></a> </td></tr>
+
+  <tr>
+  <td bgcolor=#ffffff><abbr title="Part I: Numbers, not adjectives">&nbsp;<b>I</b>&nbsp;</abbr><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/1.112.pdf><abbr title="Part I: Numbers, not adjectives (download as pdf file)"><small></small></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c1/page_2.shtml"   ><abbr title="Chapter 1: Motivations">  2-21</abbr></a>  </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c2/page_22.shtml"  ><abbr title="Chapter 2: The balance sheet"> 22-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c3/page_29.shtml"  ><abbr title="Chapter 3: Cars"> 29-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c4/page_32.shtml"  ><abbr title="Chapter 4: Wind"> 32-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c5/page_35.shtml"  ><abbr title="Chapter 5: Flight"> 35-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c6/page_38.shtml"  ><abbr title="Chapter 6: Solar"> 38-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c7/page_50.shtml"  ><abbr title="Chapter 7: Heating"> 50-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c8/page_55.shtml"  ><abbr title="Chapter 8: Hydro"> 55-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c9/page_57.shtml"  ><abbr title="Chapter 9: Light"> 57-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c10/page_60.shtml" ><abbr title="Chapter 10: Offshore"> 60-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c11/page_68.shtml" ><abbr title="Chapter 11: Gadgets"> 68-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c12/page_73.shtml" ><abbr title="Chapter 12: Wave"> 73-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c13/page_76.shtml" ><abbr title="Chapter 13: Food"> 76-</abbr></a>  </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c14/page_81.shtml" ><abbr title="Chapter 14: Tide"> 81-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c15/page_88.shtml" ><abbr title="Chapter 15: Stuff"> 88-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c16/page_96.shtml" ><abbr title="Chapter 16: Geothermal"> 96-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c17/page_100.shtml"><abbr title="Chapter 17: Public services">100-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c18/page_103.shtml"><abbr title="Chapter 18: Can we...?">103-</abbr></a>  </td></tr>
+  </table></td><td valign=top width=33%>
+  <table  width=100% cellspacing=2 cellpadding=0><tr  bgcolor=#ccccff>
+  <td bgcolor=#ffffff><abbr title="Part II: Making a difference">&nbsp;<b>II</b>&nbsp;</abbr></a><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/113.252.pdf><abbr title="Part II: Making a difference (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c19/page_114.shtml"><abbr title="Chapter 19: Every BIG helps">114-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c20/page_118.shtml"><abbr title="Chapter 20: Better transport ">118-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c21/page_140.shtml"><abbr title="Chapter 21: Smarter heating ">140-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c22/page_155.shtml"><abbr title="Chapter 22: Efficient electricity use">155-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c23/page_157.shtml"><abbr title="Chapter 23: Sustainable fossil fuels? ">157-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c24/page_161.shtml"><abbr title="Chapter 24: Nuclear? ">161-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c25/page_177.shtml"><abbr title="Chapter 25: Living on other countries' renewables?">177-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c26/page_186.shtml"><abbr title="Chapter 26: Fluctuations and storage ">186-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c27/page_203.shtml"><abbr title="Chapter 27: Five energy plans for Britain ">203-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c28/page_214.shtml"><abbr title="Chapter 28: Putting costs in perspective ">214-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c29/page_222.shtml"><abbr title="Chapter 29: What to do now ">222-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c30/page_231.shtml"><abbr title="Chapter 30: Energy plans for Europe, America, and the World">231-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c31/page_240.shtml"><abbr title="Chapter 31: The last thing we should talk about ">240-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c32/page_250.shtml"><abbr title="Chapter 32: Saying yes ">250</abbr></a> <a style="color:blue;text-decoration:none" href="../ack/page_251.shtml"><abbr title="Acknowledgments ">251</abbr></a></td></tr>
+  </table></td><td valign=top width=33%>
+  <table   cellspacing=2 cellpadding=0 width=100%><tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part III: Technical chapters">&nbsp;<b>III</b>&nbsp;</abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/253.326.pdf><abbr title="Part III: Technical chapters (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cA/page_254.shtml"  ><abbr title="Chapter A: Cars II"> 254-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cB/page_263.shtml"  ><abbr title="Chapter B: Wind II"> 263-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cC/page_269.shtml"  ><abbr title="Chapter C: Planes II"> 269-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cD/page_283.shtml"  ><abbr title="Chapter D: Solar II"> 283-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cE/page_289.shtml"  ><abbr title="Chapter E: Heating II">289-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cF/page_307.shtml"  ><abbr title="Chapter F: Waves II"> 307-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="page_311.shtml"  ><abbr title="Chapter G: Tide II"> 311-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cH/page_322.shtml"  ><abbr title="Chapter H: Stuff II">322-</abbr></a> </td></tr>
+<tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part IV: Useful data"><b>IV</b></abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/327.370.pdf><abbr title="Part IV: Useful data (download as pdf file)"></abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cI/page_328.shtml"><abbr title="Appendix I: Quick reference">328-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cJ/page_338.shtml"><abbr title="Appendix J: Populations and areas ">338-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cK/page_342.shtml"><abbr title="Appendix K: UK energy history ">342-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cL/page_370.shtml"><abbr title="Power and carbon translation charts">370-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bibliography.shtml"><abbr title="Bibliography">bibliog</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href=http://www.inference.eng.cam.ac.uk/sustainable/book/tex/cft.url.html><abbr title="List of web links">links</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bookindex.shtml"><abbr title="Alphabetical Index">index</abbr></a></small></td></tr>
+			     </table>
+			     </td></tr>
+		    
+			     </table>
+			     </td></tr>
+			     <tr><td>
+				  Many thanks to William Sigmund
+				  and <a href="http://www.opendemocracy.net/article/economics/energy-without-hot-air-group-read" style="color:#1e90ff;text-decoration:none">openDemocracy</a>
+				  for the HTML conversion!
+			     </td></tr><tr><td bgcolor=#ddddff>
+<a href=http://www.inference.phy.cam.ac.uk/wiki/sustainable/en/index.php/Main_Page>wiki</a>
+				  |
+<a href=http://withouthotair.blogspot.com/view/sidebar#!/>blog</a>
+				  |
+<a href="../Extensions.html">more</a>
+				  </td>
+				  </tr>
+</table>
+</div>
+</div>
+<script type="text/javascript">
+writePages(ybottom);
+</script></div>
+<!-- container -->
+</body>
+</html>

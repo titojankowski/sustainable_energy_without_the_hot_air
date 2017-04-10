@@ -1,0 +1,216 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Ch C Page 276: Sustainable Energy - without the hot air | David MacKay</title>
+<link rel="stylesheet" type="text/css" href="../css/sewthabase.css">
+<script type="text/javascript" src="../js/pagenav.js">
+</script>
+<style type="text/css">
+.p276num{
+  position:relative;
+  top:-0.7em; 
+  font-size:0.8em;
+}
+.p276denom{
+  position:relative;
+  float:left;
+  top:-0.8em;
+  font-size:0.8em;
+  border-top:1px;
+  border-style: solid none none;
+  line-height:120%;
+}
+
+</style>
+</head>
+<body>
+<script type="text/javascript" src="pagenavcfg.js">
+</script><div id="header">
+
+<div id="leftheader">
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
+</div>
+
+<div id="rightheader">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="davidjcmackay" data-count="none">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div> <!--end rightheader-->
+</div> <!--end header-->
+
+<div class="float-divider"></div>
+</div>
+
+<div id="container"><script type="text/javascript">
+writePages(ytop);
+</script> <div id="contentslink">
+<a href="../sewthacontents.shtml" ><strong>Contents</strong></a>
+</div>
+<div id="textcol">
+<p class="first">So whereas lowering speed-limits for cars would reduce the energy con-<br>
+sumed per distance travelled, there is no point in considering speed-limits<br>
+for planes. Planes that are up in the air have optimal speeds, different for<br>
+each plane, depending on its weight, and they already go at their optimal<br>
+speeds. If you ordered a plane to go slower, its energy consumption would<br>
+<em>increase</em>. The only way to make a plane consume fuel more efficiently is to<br>
+put it on the ground and stop it. Planes have been fantastically optimized,<br>
+and there is no prospect of significant improvements in plane efficiency.<br>
+(See pages 37 and 132 for further discussion of the notion that new super-<br>
+jumbos are &ldquo;far more efficient&rdquo; than old jumbos; and p35 for discussion of<br>
+the notion that turboprops are &ldquo;far more efficient&rdquo; than jets.)<br></p>
+<h3>Range</h3>
+<p class="first">Another prediction we can make is, what&rsquo;s the range of a plane or bird &ndash;<br>
+the biggest distance it can go without refuelling? You might think that<br>
+bigger planes have a bigger range, but the prediction of our model is<br>
+startlingly simple. The range of the plane, the maximum distance it can go<br>
+before refuelling, is proportional to its velocity and to the total energy of<br>
+the fuel, and inversely proportional to the rate at which it guzzles fuel:<br></p>
+<div><img style="margin:1em 0 1em 7em" src="E169-0-0.png" width="228" height="41" alt=""></div>
+<div class="eqref" style="margin-top:-3.6em">(C.31)</div>
+<p class="first">Now, the total energy of fuel is the calorific value of the fuel, <em>C</em> (in joules<br>
+per kilogram), times its mass; and the mass of fuel is some fraction <em>f</em><span class="smallsub"><sub>fuel</sub></span> of<br>
+the total mass of the plane. So<br></p>
+<div><img style="margin:1em 0 1em 3em" src="E170-0-0.png" width="327" height="44" alt=""></div>
+<div class="eqref" style="margin-top:-3.6em">(C.32)</div>
+<p class="first">It&rsquo;s hard to imagine a simpler prediction: the range of any bird or plane is<br>
+the product of a dimensionless factor <em>&epsilon;f</em><span class="smallsub"><sub>fuel</sub></span>/
+(<em>c</em><span class="smallsub"><sub>d</sub></span><em>f</em><span class="smallsub"><sub>A</sub></span>)<sup>1/2</sup> which takes into<br> account
+the engine efficiency, the drag coefficient, and the bird&rsquo;s geometry,<br>
+ with a fundamental distance,</p>
+<table style="margin:0em 0 0.5em 16em" class="fraction" summary="">
+<tr>
+<td><em>C</em></td>
+<td rowspan="2">,</td>
+</tr>
+<tr>
+<td class="upper_line"><em>g</em></td>
+</tr>
+</table>
+<p class="first">which is a property of the fuel and gravity, and nothing else. No bird size,<br>
+no bird mass, no bird length, no bird width; no dependence on the fluid<br>
+density.<br></p>
+<p>So what is this magic length? It&rsquo;s the same distance whether the fuel is<br>
+goose fat or jet fuel: both these fuels are essentially hydrocarbons (CH<sub>2</sub>)<sub><em>n</em></sub>.<br>
+Jet fuel has a calorific value of <em>C</em> = 40 MJ per kg. The distance associated<br>
+with jet fuel is<br></p>
+<div><img style="margin:0em 0 1em 11em" src="E173-0-0.png" width="147" height="44" alt=""></div>
+<div class="eqref" style="margin-top:-3.6em">(C.33)</div>
+<div class="imgcap"><img src="figure279.png" width="221" height="148" alt="">
+<div class="sidebarcaption"><span class="figurenumber">Figure C.11.</span> Boeing 737-700: <span class="mauve">30 kWh per 100 passenger-km</span>. Photograph &copy; Tom Collins.</div>
+</div>
+</div>
+<!-- textcol -->
+<div id="book_sidebar"><div class="pos" id="rm">
+<table cellspacing=1 cellpadding=1><tr><td>
+<a href="../order.html">
+<img border="0" src="../images/NewCover09d-2.png" width="139" height="159" alt="SEWTHA cover" />
+</a>
+     </td></tr>
+				  <tr><td>
+<a href="../order.html">
+Buy the book on paper		  
+</a>				  
+			     </td></tr>
+			     <tr><td>
+<a href="../download.html">
+Download pdf for free
+</a>				  
+	  </td></tr>
+  <tr><td>
+  <table
+       bgcolor=#bbbbbb
+       cellspacing=2 cellpadding=0>
+    <tr
+       bgcolor=#ccccff
+       ><td valign=top colspan=3 align=center>Page-finder</td></tr>
+    <tr
+       bgcolor=#ccccff
+       ><td width=33% valign=top>
+  <table cellpadding=0 cellspacing=2>
+  <tr><td><a style="color:blue;text-decoration:none" href="../c0/dedication.shtml"><abbr title="Dedication"><sup>vii</sup></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface.shtml"><abbr title="Preface page viii"><small>viii</small></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface2.shtml"><abbr title="Preface page ix"><sub>ix</sub></abbr></a> </td></tr>
+
+  <tr>
+  <td bgcolor=#ffffff><abbr title="Part I: Numbers, not adjectives">&nbsp;<b>I</b>&nbsp;</abbr><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/1.112.pdf><abbr title="Part I: Numbers, not adjectives (download as pdf file)"><small></small></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c1/page_2.shtml"   ><abbr title="Chapter 1: Motivations">  2-21</abbr></a>  </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c2/page_22.shtml"  ><abbr title="Chapter 2: The balance sheet"> 22-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c3/page_29.shtml"  ><abbr title="Chapter 3: Cars"> 29-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c4/page_32.shtml"  ><abbr title="Chapter 4: Wind"> 32-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c5/page_35.shtml"  ><abbr title="Chapter 5: Flight"> 35-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c6/page_38.shtml"  ><abbr title="Chapter 6: Solar"> 38-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c7/page_50.shtml"  ><abbr title="Chapter 7: Heating"> 50-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c8/page_55.shtml"  ><abbr title="Chapter 8: Hydro"> 55-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c9/page_57.shtml"  ><abbr title="Chapter 9: Light"> 57-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c10/page_60.shtml" ><abbr title="Chapter 10: Offshore"> 60-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c11/page_68.shtml" ><abbr title="Chapter 11: Gadgets"> 68-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c12/page_73.shtml" ><abbr title="Chapter 12: Wave"> 73-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c13/page_76.shtml" ><abbr title="Chapter 13: Food"> 76-</abbr></a>  </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c14/page_81.shtml" ><abbr title="Chapter 14: Tide"> 81-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c15/page_88.shtml" ><abbr title="Chapter 15: Stuff"> 88-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c16/page_96.shtml" ><abbr title="Chapter 16: Geothermal"> 96-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c17/page_100.shtml"><abbr title="Chapter 17: Public services">100-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c18/page_103.shtml"><abbr title="Chapter 18: Can we...?">103-</abbr></a>  </td></tr>
+  </table></td><td valign=top width=33%>
+  <table  width=100% cellspacing=2 cellpadding=0><tr  bgcolor=#ccccff>
+  <td bgcolor=#ffffff><abbr title="Part II: Making a difference">&nbsp;<b>II</b>&nbsp;</abbr></a><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/113.252.pdf><abbr title="Part II: Making a difference (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c19/page_114.shtml"><abbr title="Chapter 19: Every BIG helps">114-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c20/page_118.shtml"><abbr title="Chapter 20: Better transport ">118-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c21/page_140.shtml"><abbr title="Chapter 21: Smarter heating ">140-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c22/page_155.shtml"><abbr title="Chapter 22: Efficient electricity use">155-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c23/page_157.shtml"><abbr title="Chapter 23: Sustainable fossil fuels? ">157-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c24/page_161.shtml"><abbr title="Chapter 24: Nuclear? ">161-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c25/page_177.shtml"><abbr title="Chapter 25: Living on other countries' renewables?">177-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c26/page_186.shtml"><abbr title="Chapter 26: Fluctuations and storage ">186-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c27/page_203.shtml"><abbr title="Chapter 27: Five energy plans for Britain ">203-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c28/page_214.shtml"><abbr title="Chapter 28: Putting costs in perspective ">214-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c29/page_222.shtml"><abbr title="Chapter 29: What to do now ">222-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c30/page_231.shtml"><abbr title="Chapter 30: Energy plans for Europe, America, and the World">231-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c31/page_240.shtml"><abbr title="Chapter 31: The last thing we should talk about ">240-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c32/page_250.shtml"><abbr title="Chapter 32: Saying yes ">250</abbr></a> <a style="color:blue;text-decoration:none" href="../ack/page_251.shtml"><abbr title="Acknowledgments ">251</abbr></a></td></tr>
+  </table></td><td valign=top width=33%>
+  <table   cellspacing=2 cellpadding=0 width=100%><tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part III: Technical chapters">&nbsp;<b>III</b>&nbsp;</abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/253.326.pdf><abbr title="Part III: Technical chapters (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cA/page_254.shtml"  ><abbr title="Chapter A: Cars II"> 254-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cB/page_263.shtml"  ><abbr title="Chapter B: Wind II"> 263-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="page_269.shtml"  ><abbr title="Chapter C: Planes II"> 269-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cD/page_283.shtml"  ><abbr title="Chapter D: Solar II"> 283-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cE/page_289.shtml"  ><abbr title="Chapter E: Heating II">289-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cF/page_307.shtml"  ><abbr title="Chapter F: Waves II"> 307-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cG/page_311.shtml"  ><abbr title="Chapter G: Tide II"> 311-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cH/page_322.shtml"  ><abbr title="Chapter H: Stuff II">322-</abbr></a> </td></tr>
+<tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part IV: Useful data"><b>IV</b></abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/327.370.pdf><abbr title="Part IV: Useful data (download as pdf file)"></abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cI/page_328.shtml"><abbr title="Appendix I: Quick reference">328-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cJ/page_338.shtml"><abbr title="Appendix J: Populations and areas ">338-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cK/page_342.shtml"><abbr title="Appendix K: UK energy history ">342-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cL/page_370.shtml"><abbr title="Power and carbon translation charts">370-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bibliography.shtml"><abbr title="Bibliography">bibliog</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href=http://www.inference.eng.cam.ac.uk/sustainable/book/tex/cft.url.html><abbr title="List of web links">links</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bookindex.shtml"><abbr title="Alphabetical Index">index</abbr></a></small></td></tr>
+			     </table>
+			     </td></tr>
+		    
+			     </table>
+			     </td></tr>
+			     <tr><td>
+				  Many thanks to William Sigmund
+				  and <a href="http://www.opendemocracy.net/article/economics/energy-without-hot-air-group-read" style="color:#1e90ff;text-decoration:none">openDemocracy</a>
+				  for the HTML conversion!
+			     </td></tr><tr><td bgcolor=#ddddff>
+<a href=http://www.inference.phy.cam.ac.uk/wiki/sustainable/en/index.php/Main_Page>wiki</a>
+				  |
+<a href=http://withouthotair.blogspot.com/view/sidebar#!/>blog</a>
+				  |
+<a href="../Extensions.html">more</a>
+				  </td>
+				  </tr>
+</table>
+</div>
+</div>
+<script type="text/javascript">
+writePages(ybottom);
+</script></div>
+<!-- container -->
+</body>
+</html>

@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Ch 18 Page 104: Sustainable Energy - without the hot air | David MacKay</title>
+<link rel="stylesheet" type="text/css" href="../css/sewthabase.css">
+<script type="text/javascript" src="../js/pagenav.js">
+</script>
+<style type="text/css">
+table#p104{
+    margin-top:1.5em;
+	 margin-left:5em;
+	 width:20em;
+}
+table#p104 td:first-child+td+td{
+	text-align:right;
+}
+table#p104 tr:first-child+tr+tr+tr+tr+tr td+td {
+	text-align:right;
+}
+</style>
+</head>
+<body>
+<script type="text/javascript" src="pagenavcfg.js">
+</script><div id="header">
+
+<div id="leftheader">
+<span  style="font-family: helvetica, sans-serif;font-size:0.92em"><a href=http://www.withouthotair.com/Contents.html  style="color:black;text-decoration:none">Sustainable Energy - <font color="#ff0000">without the
+hot air</font> &nbsp;  &nbsp;  &nbsp;  &nbsp; David JC MacKay</a></span>
+</div>
+
+<div id="rightheader">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="davidjcmackay" data-count="none">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div> <!--end rightheader-->
+</div> <!--end header-->
+
+<div class="float-divider"></div>
+</div>
+
+<div id="container"><script type="text/javascript">
+writePages(ytop);
+</script> <div id="contentslink">
+<a href="../sewthacontents.shtml" ><strong>Contents</strong></a>
+</div>
+<div id="textcol">
+<h2>Red reflections </h2>
+<p class="first">Our estimate of a typical affluent person&rsquo;s consumption (figure 18.1) has<br>
+reached <span class="red">195 kWh per day</span>. It is indeed true that many people use this<br>
+much energy, and that many more aspire to such levels of consumption.<br>
+The <em>average</em> American consumes about <span class="em"><span class="red">250 kWh per day</span></span>. If we all raised<br>
+our standard of consumption to an average American level, the green pro-<br>
+duction stack would definitely be dwarfed by the red consumption stack.<br>
+</p>
+<p>What about the average European and the average Brit? Average Eu-<br>
+ropean consumption of &ldquo;primary energy&rdquo; (which means the energy con-<br>
+tained in raw fuels, plus wind and hydroelectricity) is about <span class="red">125 kWh per<br>
+day per person</span>. The UK average is also <span class="red">125 kWh per day per person</span>.<br>
+</p>
+<p>These official averages do not include two energy flows. First, the &ldquo;em-<br>
+bedded energy&rdquo; in <em>imported</em> stuff (the energy expended in making the stuff)<br>
+is not included at all. We estimated in Chapter 15 that the embedded energy<br>
+in imported stuff is at least 40 kWh/d per person. Second, the official<br>
+estimates of &ldquo;primary energy consumption&rdquo; include only industrial energy<br>
+flows &ndash; things like fossil fuels and hydroelectricity &ndash; and don&rsquo;t keep<br>
+track of the natural embedded energy in food: energy that was originally<br>
+harnessed by photosynthesis.<br>
+</p>
+<p>Another difference between the red stack we slapped together and the<br>
+national total is that in most of the consumption chapters so far we tended<br>
+to ignore the energy lost in converting energy from one form to another,<br>
+and in transporting energy around. For example, the &ldquo;car&rdquo; estimate in<br>
+Part I covered only the energy in the petrol, not the energy used at the<br>
+oil refinery that makes the petrol, nor the energy used in trundling the<br>
+oil and petrol from A to B. The national total accounts for all the energy,<br>
+before any conversion losses. Conversion losses in fact account for about<br>
+22% of total national energy consumption. Most of these conversion losses<br>
+happen at power stations. Losses in the electricity transmission network<br>
+chuck away 1% of total national energy consumption.<br>
+</p>
+<p>When building our red stack, we tried to imagine how much energy a<br>
+typical affluent person uses. Has this approach biased our perception of<br>
+the importance of different activities? Let&rsquo;s look at some official numbers.<br>
+Figure 18.2 shows the breakdown of energy consumption by end use. The<br>
+top two categories are transport and heating (hot air and hot water). Those<br>
+two categories also dominated the red stack in Part I. Good.<br>
+</p>
+
+<table class="framed" id="p104" summary="">
+<tr class="top"><td>Road transport</td><td>Petroleum</td><td>22.5</td></tr>
+<tr><td>Railways</td><td>Petroleum</td><td>0.4</td></tr>
+<tr><td>Water transport</td><td>Petroleum</td><td>1.0</td></tr>
+<tr><td>Aviation</td><td>Petroleum</td><td>7.4</td></tr>
+<tr class="thinbottom"><td>All modes</td><td>Electricity</td><td>0.4</td></tr>
+<tr class="bottom"><td colspan="2">All energy used by transport</td><td>31.6</td></tr>
+</table>
+
+<div class="imgcap" style="top:1em"><img style="padding-left:2em" src="figure129.png" width="101" height="483" alt="">
+<div class="sidebarcaption"><span class="figurenumber">Figure 18.2</span>. Energy consumption, broken down by end use, according to the Department for Trade and Industry.</div>
+</div>
+<div class="sidebarcaption" style="top:60em"><span class="figurenumber">Table 18.3</span>. 2006 breakdown of energy consumption by transport mode, in kWh/d per person.<br>
+Source: Dept. for Transport (2007).</div>
+</div>
+<!-- textcol -->
+<div id="book_sidebar"><div class="pos" id="rm">
+<table cellspacing=1 cellpadding=1><tr><td>
+<a href="../order.html">
+<img border="0" src="../images/NewCover09d-2.png" width="139" height="159" alt="SEWTHA cover" />
+</a>
+     </td></tr>
+				  <tr><td>
+<a href="../order.html">
+Buy the book on paper		  
+</a>				  
+			     </td></tr>
+			     <tr><td>
+<a href="../download.html">
+Download pdf for free
+</a>				  
+	  </td></tr>
+  <tr><td>
+  <table
+       bgcolor=#bbbbbb
+       cellspacing=2 cellpadding=0>
+    <tr
+       bgcolor=#ccccff
+       ><td valign=top colspan=3 align=center>Page-finder</td></tr>
+    <tr
+       bgcolor=#ccccff
+       ><td width=33% valign=top>
+  <table cellpadding=0 cellspacing=2>
+  <tr><td><a style="color:blue;text-decoration:none" href="../c0/dedication.shtml"><abbr title="Dedication"><sup>vii</sup></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface.shtml"><abbr title="Preface page viii"><small>viii</small></abbr></a><a style="color:blue;text-decoration:none" href="../c0/preface2.shtml"><abbr title="Preface page ix"><sub>ix</sub></abbr></a> </td></tr>
+
+  <tr>
+  <td bgcolor=#ffffff><abbr title="Part I: Numbers, not adjectives">&nbsp;<b>I</b>&nbsp;</abbr><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/1.112.pdf><abbr title="Part I: Numbers, not adjectives (download as pdf file)"><small></small></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c1/page_2.shtml"   ><abbr title="Chapter 1: Motivations">  2-21</abbr></a>  </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c2/page_22.shtml"  ><abbr title="Chapter 2: The balance sheet"> 22-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c3/page_29.shtml"  ><abbr title="Chapter 3: Cars"> 29-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c4/page_32.shtml"  ><abbr title="Chapter 4: Wind"> 32-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c5/page_35.shtml"  ><abbr title="Chapter 5: Flight"> 35-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c6/page_38.shtml"  ><abbr title="Chapter 6: Solar"> 38-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c7/page_50.shtml"  ><abbr title="Chapter 7: Heating"> 50-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c8/page_55.shtml"  ><abbr title="Chapter 8: Hydro"> 55-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c9/page_57.shtml"  ><abbr title="Chapter 9: Light"> 57-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c10/page_60.shtml" ><abbr title="Chapter 10: Offshore"> 60-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c11/page_68.shtml" ><abbr title="Chapter 11: Gadgets"> 68-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c12/page_73.shtml" ><abbr title="Chapter 12: Wave"> 73-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c13/page_76.shtml" ><abbr title="Chapter 13: Food"> 76-</abbr></a>  </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c14/page_81.shtml" ><abbr title="Chapter 14: Tide"> 81-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c15/page_88.shtml" ><abbr title="Chapter 15: Stuff"> 88-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c16/page_96.shtml" ><abbr title="Chapter 16: Geothermal"> 96-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../c17/page_100.shtml"><abbr title="Chapter 17: Public services">100-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="page_103.shtml"><abbr title="Chapter 18: Can we...?">103-</abbr></a>  </td></tr>
+  </table></td><td valign=top width=33%>
+  <table  width=100% cellspacing=2 cellpadding=0><tr  bgcolor=#ccccff>
+  <td bgcolor=#ffffff><abbr title="Part II: Making a difference">&nbsp;<b>II</b>&nbsp;</abbr></a><a style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/113.252.pdf><abbr title="Part II: Making a difference (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c19/page_114.shtml"><abbr title="Chapter 19: Every BIG helps">114-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c20/page_118.shtml"><abbr title="Chapter 20: Better transport ">118-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c21/page_140.shtml"><abbr title="Chapter 21: Smarter heating ">140-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c22/page_155.shtml"><abbr title="Chapter 22: Efficient electricity use">155-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c23/page_157.shtml"><abbr title="Chapter 23: Sustainable fossil fuels? ">157-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c24/page_161.shtml"><abbr title="Chapter 24: Nuclear? ">161-</abbr></a></td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../c25/page_177.shtml"><abbr title="Chapter 25: Living on other countries' renewables?">177-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c26/page_186.shtml"><abbr title="Chapter 26: Fluctuations and storage ">186-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c27/page_203.shtml"><abbr title="Chapter 27: Five energy plans for Britain ">203-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c28/page_214.shtml"><abbr title="Chapter 28: Putting costs in perspective ">214-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c29/page_222.shtml"><abbr title="Chapter 29: What to do now ">222-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c30/page_231.shtml"><abbr title="Chapter 30: Energy plans for Europe, America, and the World">231-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c31/page_240.shtml"><abbr title="Chapter 31: The last thing we should talk about ">240-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../c32/page_250.shtml"><abbr title="Chapter 32: Saying yes ">250</abbr></a> <a style="color:blue;text-decoration:none" href="../ack/page_251.shtml"><abbr title="Acknowledgments ">251</abbr></a></td></tr>
+  </table></td><td valign=top width=33%>
+  <table   cellspacing=2 cellpadding=0 width=100%><tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part III: Technical chapters">&nbsp;<b>III</b>&nbsp;</abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/253.326.pdf><abbr title="Part III: Technical chapters (download as pdf file)"></abbr></a></td></tr>
+
+  <tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cA/page_254.shtml"  ><abbr title="Chapter A: Cars II"> 254-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cB/page_263.shtml"  ><abbr title="Chapter B: Wind II"> 263-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cC/page_269.shtml"  ><abbr title="Chapter C: Planes II"> 269-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cD/page_283.shtml"  ><abbr title="Chapter D: Solar II"> 283-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cE/page_289.shtml"  ><abbr title="Chapter E: Heating II">289-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cF/page_307.shtml"  ><abbr title="Chapter F: Waves II"> 307-</abbr></a> </td></tr>
+  <tr><td bgcolor=#bbffbb><a style="color:blue;text-decoration:none" href="../cG/page_311.shtml"  ><abbr title="Chapter G: Tide II"> 311-</abbr></a> </td></tr>
+  <Tr><td bgcolor=#ffbbbb><a style="color:blue;text-decoration:none" href="../cH/page_322.shtml"  ><abbr title="Chapter H: Stuff II">322-</abbr></a> </td></tr>
+<tr  bgcolor=#ccccff>
+  <td  bgcolor=#ffffff><abbr title="Part IV: Useful data"><b>IV</b></abbr><br><a  style="color:blue;text-decoration:none" href=http://www.inference.phy.cam.ac.uk/sustainable/book/tex/ps/327.370.pdf><abbr title="Part IV: Useful data (download as pdf file)"></abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cI/page_328.shtml"><abbr title="Appendix I: Quick reference">328-</abbr></a> </td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cJ/page_338.shtml"><abbr title="Appendix J: Populations and areas ">338-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cK/page_342.shtml"><abbr title="Appendix K: UK energy history ">342-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><a style="color:blue;text-decoration:none" href="../cL/page_370.shtml"><abbr title="Power and carbon translation charts">370-</abbr></a></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bibliography.shtml"><abbr title="Bibliography">bibliog</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href=http://www.inference.eng.cam.ac.uk/sustainable/book/tex/cft.url.html><abbr title="List of web links">links</abbr></a></small></td></tr>
+  <tr><td bgcolor=#ccccff><small><a style="color:blue;text-decoration:none" href="../bookindex.shtml"><abbr title="Alphabetical Index">index</abbr></a></small></td></tr>
+			     </table>
+			     </td></tr>
+		    
+			     </table>
+			     </td></tr>
+			     <tr><td>
+				  Many thanks to William Sigmund
+				  and <a href="http://www.opendemocracy.net/article/economics/energy-without-hot-air-group-read" style="color:#1e90ff;text-decoration:none">openDemocracy</a>
+				  for the HTML conversion!
+			     </td></tr><tr><td bgcolor=#ddddff>
+<a href=http://www.inference.phy.cam.ac.uk/wiki/sustainable/en/index.php/Main_Page>wiki</a>
+				  |
+<a href=http://withouthotair.blogspot.com/view/sidebar#!/>blog</a>
+				  |
+<a href="../Extensions.html">more</a>
+				  </td>
+				  </tr>
+</table>
+</div>
+</div>
+<script type="text/javascript">
+writePages(ybottom);
+</script></div>
+<!-- container -->
+</body>
+</html>
